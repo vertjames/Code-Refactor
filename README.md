@@ -1,1 +1,3 @@
-# Code-Refactor
+Per the client's request, I cleaned up the code to make it leaner and adhere to accessibility standards. This was accomplished by consolidating CSS and rearranging the order of code in the CSS file to match the HTML file. A few minor corrections and changes were also made, including descriptive title entry, link fixes, and alt img tag additions. 
+
+Note that at this time I have not made the site visually mobile friendly on the front-end.
